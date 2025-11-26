@@ -1,5 +1,8 @@
-keras==3.5.0
+keras
 numpy
 tensorflow
 pandas
 streamlit
+confluent_kafka
+scikit-learn
+shap
